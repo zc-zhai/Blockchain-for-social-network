@@ -6,7 +6,7 @@ This public repository only contains some parts of my codes and documents.
 * Create a blockchain, which can store the message transfers in social networks.
 * Develop an application, which can calculate and show the information like article forward amount.
 * Finally applied in the market of WeChat or blogs.
-## Index
+## Contents
 ### Building Consortium Blockchain Based on Ethereum.pdf
 This is the document recording the process and results of building consortium blockchain.<br>
 All the orders or codes are included.
