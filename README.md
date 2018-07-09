@@ -1,4 +1,4 @@
-# Blockchain
+# Blockchain-for-social-network
 This is the project platform of Blockchain For Social Network.<br>
 For copyright protection, the whole repository belonging to SJTU-SE-BASICS is private.<br>
 This public repository only contains some parts of my codes and documents.
